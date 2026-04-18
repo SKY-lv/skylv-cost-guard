@@ -1,13 +1,23 @@
-# skylv-cost-guard
+# Cost Guard
 
-cost guard - OpenClaw Skill
+> cost guard - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-cost-guard
 ```
 
-## Description
-An OpenClaw skill for cost guard.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-cost-guard
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv
